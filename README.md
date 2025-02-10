@@ -4,7 +4,7 @@ Function: select one or more portals in IITC and their links/fields will be show
 Purpose: make it more visible in IITC what will happen if a portal will be taken down. Which links and fields will fall? What happens if...?
 
 To install, use this link:
-https://raw.githubusercontent.com/kvistofta/iitc-plugins/refs/heads/main/iitc-whatif.user.js
+https://github.com/otus-scops/iitc-plugins-whatif/raw/refs/heads/main/iitc-whatif.user.js
 
 To use: 
 1) Install plugin.
@@ -15,9 +15,3 @@ To use:
 6) Select more portals if needed, and for each portal "Mark Portal".
 7) To unmark portal, select "Unmark" in the popup in the lower right corner. Or reload IITC.
 
-
-Todo:
-* Currently, fields will not be unmarked. Thay will stay red. This will be fixed. Until then, reload IITC to unmark all fields. Or disable the "fields" layer to just show portal and links. Then it works flawlessy. :)
-
-
-Feature requests? Bug reports? Tell me and I will tell ChatGPT. :)
